@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="340" viewBox="0 0 490 340" role="img" aria-label="Muzammil: engineer and inventor building J.A.R.V.I.S. Mark 3">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Consolas,Menlo,monospace;font-size:13px}
+.t{fill:#7d8fa3;font-size:12px}
+.h{fill:#ffc857;font-weight:700;font-size:14px}
+.k{fill:#5fe3ff}
+.v{fill:#d7e3ee}
+.d{fill:#7d8fa3}
+.l{opacity:0;animation:in .5s ease-out forwards}
+.cur{animation:blink 1.1s steps(2,jump-none) infinite}
+@keyframes in{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:none}}
+@keyframes blink{from{opacity:1}to{opacity:0}}
+@media (prefers-reduced-motion:reduce){.l{animation:none;opacity:1}.cur{animation:none}}
+</style>
+<rect x=".5" y=".5" width="489" height="339" rx="10" fill="#0b1118" stroke="#223040"/>
+<path d="M1 30V11a10 10 0 0 1 10-10h468a10 10 0 0 1 10 10v19z" fill="#121b25"/>
+<circle cx="18" cy="15.500" r="5" fill="#ff5f56"/><circle cx="36" cy="15.500" r="5" fill="#ffbd2e"/><circle cx="54" cy="15.500" r="5" fill="#27c93f"/>
+<text x="245.0" y="20" text-anchor="middle" class="t">neofetch</text>
+<g class="l" style="animation-delay:0.10s"><text x="24" y="62" class="h">muzammil<tspan class="k">@</tspan>github</text></g>
+<g class="l" style="animation-delay:0.21s"><rect x="24" y="74" width="442" height="1" fill="#223040"/></g>
+<g class="l" style="animation-delay:0.32s"><text x="24" y="96" class="k">Role</text><text x="106" y="96" class="v">Engineer by degree. Inventor by instinct.</text></g>
+<g class="l" style="animation-delay:0.43s"><text x="24" y="118" class="k">Building</text><text x="106" y="118" class="v">J.A.R.V.I.S. Mark 3</text></g>
+<g class="l" style="animation-delay:0.54s"><text x="106" y="140" class="d">voice assistant with a holographic UI</text></g>
+<g class="l" style="animation-delay:0.65s"><text x="24" y="162" class="k">Shipped</text><text x="106" y="162" class="v">AI video analyzer for Mantrahackathon</text></g>
+<g class="l" style="animation-delay:0.76s"><text x="106" y="184" class="d">YOLOv8 · BLIP-2 · Coqui STT · Ollama</text></g>
+<g class="l" style="animation-delay:0.87s"><text x="24" y="206" class="k">Stack</text><text x="106" y="206" class="v">TypeScript · React · Three.js · GLSL</text></g>
+<g class="l" style="animation-delay:0.98s"><text x="106" y="228" class="d">Python · Kotlin · Node.js</text></g>
+<g class="l" style="animation-delay:1.09s"><text x="24" y="250" class="k">Motto</text><text x="106" y="250" class="v">Building the future, one commit at a time.</text></g>
+<g class="l" style="animation-delay:1.20s"><text x="24" y="272" class="k">Status</text><text x="106" y="272" class="v">Sometimes I am the upgrade.</text></g>
+<g class="l" style="animation-delay:1.31s"><rect x="24" y="288" width="20" height="10" rx="2" fill="#ff5f56"/><rect x="48" y="288" width="20" height="10" rx="2" fill="#ffbd2e"/><rect x="72" y="288" width="20" height="10" rx="2" fill="#ffc857"/><rect x="96" y="288" width="20" height="10" rx="2" fill="#27c93f"/><rect x="120" y="288" width="20" height="10" rx="2" fill="#25b4cf"/><rect x="144" y="288" width="20" height="10" rx="2" fill="#5fe3ff"/><rect x="168" y="288" width="20" height="10" rx="2" fill="#b48ead"/><rect x="192" y="288" width="20" height="10" rx="2" fill="#d7e3ee"/></g>
+<rect class="cur" x="216" y="288" width="7" height="10" fill="#5fe3ff"/>
+</svg>
