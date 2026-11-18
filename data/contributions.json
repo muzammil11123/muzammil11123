@@ -1,13 +1,13 @@
 {
  "username": "muzammil11123",
  "stats": {
-  "total": 6,
-  "active_days": 3,
-  "current_streak": 0,
-  "longest_streak": 1,
+  "total": 22,
+  "active_days": 6,
+  "current_streak": 1,
+  "longest_streak": 2,
   "best_day": {
-   "date": "2026-06-07",
-   "count": 2
+   "date": "2026-11-18",
+   "count": 8
   },
   "months": {
    "2025-11": 0,
@@ -22,7 +22,7 @@
    "2026-08": 0,
    "2026-09": 0,
    "2026-10": 2,
-   "2026-11": 2
+   "2026-11": 18
   }
  },
  "days": [
@@ -1043,7 +1043,7 @@
   },
   {
    "date": "2026-06-07",
-   "level": 4,
+   "level": 1,
    "count": 2
   },
   {
@@ -1768,7 +1768,7 @@
   },
   {
    "date": "2026-10-30",
-   "level": 4,
+   "level": 1,
    "count": 2
   },
   {
@@ -1788,7 +1788,7 @@
   },
   {
    "date": "2026-11-03",
-   "level": 4,
+   "level": 1,
    "count": 2
   },
   {
@@ -1798,13 +1798,13 @@
   },
   {
    "date": "2026-11-05",
-   "level": 0,
-   "count": 0
+   "level": 4,
+   "count": 7
   },
   {
    "date": "2026-11-06",
-   "level": 0,
-   "count": 0
+   "level": 1,
+   "count": 1
   },
   {
    "date": "2026-11-07",
@@ -1860,6 +1860,11 @@
    "date": "2026-11-17",
    "level": 0,
    "count": 0
+  },
+  {
+   "date": "2026-11-18",
+   "level": 4,
+   "count": 8
   }
  ]
 }
